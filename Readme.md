@@ -5,7 +5,7 @@ Uma aplicação web para cálculo do Índice de Massa Corporal (IMC), desenvolvi
 O usuário informa seu peso e sua altura, e a aplicação realiza o cálculo do IMC de forma dinâmica.
 
 <p align="center">
-  <img src="images/calculadora-imc-preview.png" alt="Preview do VeloDash" width="100%" style="border-radius: 8px;">
+  <img src="assets/images/calculadora-imc-preview.png" alt="Preview do VeloDash" width="100%" style="border-radius: 8px;">
 </p>
 
 ## Tecnologias
